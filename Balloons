@@ -1,8 +1,9 @@
 // Copyright 2019, Jim Palomo, All rights reserved. 
 // Code created in Javascript @ Code.org
 // Part of the digital design project
-// Link to code: 
+// Link to code: https://studio.code.org/projects/applab/8dH8Z83YwrrE4Ta5ECHB4hJbnVuLCz5x0wvoRHDd67U
 
+// Loops the function balloons()
   for (var i = 0; i < 30; i++) {
     balloons();
   }
