@@ -1,7 +1,7 @@
 // Copyright 2019, Jim Palomo, All rights reserved. 
 // Code created in Javascript @ Code.org
 // Code that generates the movement of fishes by randomizing different elements every second. 
-// Link to code: https://studio.code.org/projects/applab/8dH8Z83YwrrE4Ta5ECHB4hJbnVuLCz5x0wvoRHDd67U
+// Link to code: https://studio.code.org/projects/applab/mZBfrTpDQSxSD2WCpMubPMwcFJPqSCbymu4bDCofTWc
 
 for (var i = 0; i < 100; i++) {
   setInterval(drawDesign, 250);
