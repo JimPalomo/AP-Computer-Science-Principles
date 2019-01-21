@@ -1,6 +1,7 @@
 // Copyright 2019, Jim Palomo, All rights reserved. 
-// Code created in Javascript
+// Code created in Javascript @ code.org
 // Use of arrays to create a slideshow pictures with the use of buttons
+// Link to code: https://studio.code.org/projects/applab/B7EYtU9OHELxw9RjaBrTi_j551ASiCh4GuKw4P8i-4E
 
 //Code refactored
 var favorite = [];
