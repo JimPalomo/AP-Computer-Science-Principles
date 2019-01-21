@@ -1,0 +1,16 @@
+// Copyright 2019, Jim Palomo, All rights reserved. 
+// Code created in Javascript
+// Part of the digital design project
+
+  for (var i = 0; i < 30; i++) {
+    balloons();
+  }
+  
+
+function balloons() {
+  penUp();
+  moveTo(randomNumber(190,320), randomNumber(175,220));
+  penRGB(randomNumber(0,255 ), randomNumber(0,255), randomNumber(0,255));
+  dot(20);
+  
+}
