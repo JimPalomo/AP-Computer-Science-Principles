@@ -1,3 +1,2 @@
 # AP-Computer-Science-Principles
-// My AP CSP work
-// WIP
+// My work done in AP CSP written in Javascript @ Code.org
