@@ -1,6 +1,7 @@
 // Copyright 2019, Jim Palomo, All rights reserved. 
-// Code created in Javascript
+// Code created in Javascript @ Code.org
 // Part of the digital design project
+// Link to code: 
 
   for (var i = 0; i < 30; i++) {
     balloons();
